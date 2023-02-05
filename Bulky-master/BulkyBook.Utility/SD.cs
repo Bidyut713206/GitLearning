@@ -9,6 +9,7 @@ namespace BulkyBook.Utility
     public static class SD
     {
 		//All constants are defined here in GitBranch1 2nd commit
+		//git branch 11
         public const string Role_User_Indi = "Individuals Name";
         public const string Role_User_Comp = "Company Name";
         public const string Role_Admin = "Admin";
