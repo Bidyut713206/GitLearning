@@ -8,10 +8,15 @@ namespace BulkyBook.Utility
 {
     public static class SD
     {
-		//All constants are defined here in GitBranch1
+		//All constants are defined here in GitBranch1 2nd commit
+		//git branch 11
+		//git branch 11 second commit
+        //git branch 11 third commit
+		//git branch1 second commit
+		//git branch1 changes for git branch12
         public const string Role_User_Indi = "Individuals Name";
-        public const string Role_User_Comp = "Company";
-        public const string Role_Admin = "Admin";
+        public const string Role_User_Comp = "Company Name";
+        public const string Role_Admin = "Admin Name";
         public const string Role_Employee = "Employee";
 
         public const string StatusPending = "Pending";
