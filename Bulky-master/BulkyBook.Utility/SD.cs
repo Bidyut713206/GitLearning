@@ -10,9 +10,10 @@ namespace BulkyBook.Utility
     {
 		//All constants are defined here in GitBranch1 2nd commit
 		//git branch 11
+		//git branch 11 second commit
         public const string Role_User_Indi = "Individuals Name";
         public const string Role_User_Comp = "Company Name";
-        public const string Role_Admin = "Admin";
+        public const string Role_Admin = "Admin Name";
         public const string Role_Employee = "Employee";
 
         public const string StatusPending = "Pending";
