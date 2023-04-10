@@ -14,6 +14,7 @@ namespace BulkyBook.Utility
         //git branch 11 third commit
 		//git branch1 second commit
 		//git branch1 changes for git branch12
+		//git branch1 latest changes
         public const string Role_User_Indi = "Individuals Name";
         public const string Role_User_Comp = "Company Name";
         public const string Role_Admin = "Admin Name";
